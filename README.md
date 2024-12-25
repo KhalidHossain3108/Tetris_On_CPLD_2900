@@ -5,3 +5,7 @@ Tetris is implemented on the dot matrix display of CPLD-2900 using verilog. It w
 3. Khalid Hossain
 4. Md. Taufiq Huda
 5. Ahsan Islam
+
+
+Demonstration video link
+https://youtu.be/xpY3xPOAZ_Y
